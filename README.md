@@ -44,7 +44,10 @@ A Power BI dashboard project that visualizes and analyzes traffic violation data
 2. Interact with the filters to explore trends by state, vehicle, or violation type.
 3. Use this dashboard to support traffic policy decisions or safety campaigns.
 
-## Visual
+## 📸 Dashboard Preview
+
+Here’s a quick look at the dashboard:
+
 <img width="1219" height="660" alt="image" src="https://github.com/user-attachments/assets/4216be91-d022-4ca7-b17d-f3ca6accf924" />
 <img width="722" height="429" alt="image" src="https://github.com/user-attachments/assets/54ba733c-33b2-4774-9c3b-ab6a9b7f4408" />
 
